@@ -1,0 +1,17 @@
+{
+  "name": "vue-prop-emit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/cli": "^3.11.0",
+    "@vue/cli-service-global": "^3.11.0",
+    "core-js": "^3.2.1"
+  }
+}
