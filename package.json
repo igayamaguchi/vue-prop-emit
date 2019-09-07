@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "vue serve"
+    "vue-serve": "vue serve"
   },
   "keywords": [],
   "author": "",
