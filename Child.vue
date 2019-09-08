@@ -10,7 +10,7 @@ export default {
   props: { count: { type: Number, required: true } },
   methods: {
     countUp() {
-      this.$emit('set-count', this.count++)
+      this.$emit('set-count', this.count + 1)
     }
   }
 }
